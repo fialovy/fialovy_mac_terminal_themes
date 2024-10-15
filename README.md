@@ -12,8 +12,10 @@ This repo is just a dumping ground for a few favorite macOS terminal themes I've
 
 ![green sample 0](images/meadowsprite_0.png)
 
-...because do you want your terminal do destory your eyes like the sprites are destroying this bakery? OF COURSE YOU DO.
+### ...because do you want your terminal to destory your eyes like the sprites are destroying this bakery? OF COURSE YOU DO.
 
 
 ![sprite disaster](images/sprite_disaster.png)
+
+(google drawings art by @fialovy)
 
