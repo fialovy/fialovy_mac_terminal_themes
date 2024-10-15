@@ -5,7 +5,7 @@ This repo is just a dumping ground for a few favorite macOS terminal themes I've
 Instructions to import and export terminal files can be found [here](https://support.apple.com/guide/terminal/import-and-export-terminal-profiles-trml4299c696/mac) as of October 2024.
 
 
-### "lavendris" a.k.a. what do you think 'fialovy' is even Czech for?! 🇨🇿💜
+### "lavendris" a.k.a. what do you think 'fialovy' even means?! 💜
 
 ![purple sample 0](images/lavendris_0.png)
 
@@ -15,7 +15,7 @@ Instructions to import and export terminal files can be found [here](https://sup
 
 ![green sample 0](images/meadowsprite_0.png)
 
-### ...because do you want your terminal to destory your eyes like the sprites are destroying this bakery? OF COURSE YOU DO.
+### ...because do you want your terminal to destroy your eyes like the meadow sprites are destroying this bakery? OF COURSE YOU DO.
 
 
 ![sprite disaster](images/sprite_disaster.png)
